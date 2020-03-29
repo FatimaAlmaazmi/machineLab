@@ -71,7 +71,7 @@ Here is a screenshot of the note I made on that day + Plastic Pop Rivets I wante
 ![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/poprivets.png)
 
 
-**3. placemnet**
+**3. placement**
  
  I also had the placement ready. I just needed to glue everything on the wooden base. Here is a sketch of how I planned the placements.
 
