@@ -7,7 +7,9 @@ The theme of my project is *The Hunchback of Notre-Dame*.
 
 Here is a skecth of what my project will look like:
 
-![](sketches/IMG-0168.jpg)
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0168.jpg)
+
 
 ___
 ### Stepper Motor Mechanism
@@ -18,7 +20,8 @@ The movement of the linkage or the stepper motor will be controlled by a button.
 
 Here is a skecth of the stepper motor mechanism and its dimensions:
 
-![](sketches/IMG-0164.jpg)
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0164.jpg)
 
 
 ___
@@ -30,7 +33,9 @@ The servo motor will move in a 90 degree angle only. And, this will be controlle
 
 Here is a sketch of the servo motor mechanism and its dimensions:
 
-![](sketches/IMG-0166.jpg)
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0166.jpg)
+
 
 ___
 ### Arduino
@@ -48,7 +53,9 @@ I will list the things that I had ready, and what I was planning to do next:
   
   I have a wooden base ready to place my mechanisms on. Here are its dimensions.
   
-  ![](sketches/IMG-0163.jpg)
+  
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0163.jpg)
+  
   
 **2. linkages**
   
@@ -57,14 +64,19 @@ I also planned to use Plastic Pop Rivets to attach linkages together.
 
 Here is a screenshot of the note I made on that day + Plastic Pop Rivets I wanted to use.
 
-![](sketches/IMG-0165.jpg)
-![](sketches/poprivets.png)
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0165.jpg)
+
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/poprivets.png)
+
 
 **3. placemnet**
  
  I also had the placement ready. I just needed to glue everything on the wooden base. Here is a sketch of how I planned the placements.
 
-![](sketches/IMG-0162.jpg)
+
+![](https://github.com/FatimaAlmaazmi/machineLab/blob/master/sketches/IMG-0162.jpg)
 
 
 Thank you :)
