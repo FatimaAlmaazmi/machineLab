@@ -155,18 +155,18 @@ ___
 
 I was also able to think about how the components will be attached all together and what extra materials I would need to do so. 
 
-The two bodies will be attached to the box by L-brackets.
-The platform that holds the servo, will be attached to the body by L-brackets.
-The platform that holds the fan, will be attached to the box by L-brackets.
-The two arms will be attached to the bodies by 20mm bolts and knots.
-The hub I will be using to connect the 8mm rod to 5mm stepper motor rod, is one suggested by the Professor (which I think can be 3D printed).
-Ping pong ball.
-Strings.
-Threads.
-Embroidery hoop.
-Needle.
-Servo motor.
-Stepper motor.
+1. The two bodies will be attached to the box by L-brackets.
+2. The platform that holds the servo, will be attached to the body by L-brackets.
+3. The platform that holds the fan, will be attached to the box by L-brackets.
+4. The two arms will be attached to the bodies by 20mm bolts and knots.
+6. 5. The hub I will be using to connect the 8mm rod to 5mm stepper motor rod, is one suggested by the Professor (which I think can be 3D printed).
+7. Ping pong ball.
+8. Strings.
+9. Threads.
+10. Embroidery hoop.
+11. Needle.
+12. Servo motor.
+13. Stepper motor.
 
 ___
 
